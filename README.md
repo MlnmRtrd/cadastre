@@ -40,10 +40,13 @@ curl -i -H "Accept:application/json" "http://yourDomain/cadastre/get?number=69:2
 
 #Скриншоты работы приложения
 Web
+[Imgur](https://imgur.com/3AjszkI)
 <img src="https://imgur.com/3AjszkI" height="100px">
 
 Rest
+[Imgur](https://imgur.com/Ki2Tbso)
 <img src="https://imgur.com/Ki2Tbso" height="100px">
 
 Console
+[Imgur](https://imgur.com/NLFgZqn)
 <img src="https://imgur.com/NLFgZqn" height="100px">
