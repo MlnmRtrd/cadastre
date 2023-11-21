@@ -21,6 +21,7 @@
 `php vendor/bin/codecept run common/tests/unit/component/CadastreReaderTest.php`
 
 # Использование компонента
+
 Компонент, **CadastreReader** находится в директории common/components/CadasterReader.php.
 В коде вызывается при помощи: 
 ```
@@ -38,15 +39,13 @@ yii cadastre/get 69:27:0000022:1306,69:27:0000022:1307
 curl -i -H "Accept:application/json" "http://yourDomain/cadastre/get?number=69:27:0000022:1306,69:27:0000022:1307"
 ```
 
-#Скриншоты работы приложения
+# Скриншоты работы приложения
+
 Web
 [Imgur](https://imgur.com/3AjszkI)
-<img src="https://imgur.com/3AjszkI" height="100px">
 
 Rest
 [Imgur](https://imgur.com/Ki2Tbso)
-<img src="https://imgur.com/Ki2Tbso" height="100px">
 
 Console
 [Imgur](https://imgur.com/NLFgZqn)
-<img src="https://imgur.com/NLFgZqn" height="100px">
